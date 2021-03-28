@@ -36,7 +36,7 @@ yarn add jobr
 ### Node
 
 ```typescript
-import { RecurrentJob } from "jobr/dist/recurrent-job";
+import { RecurrentJob } from "jobr";
 
 const recurrentJob = new RecurrentJob({
   name: "hello",
