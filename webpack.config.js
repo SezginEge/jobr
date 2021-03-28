@@ -18,7 +18,8 @@ module.exports = {
     library: "jobr",
     libraryTarget: "umd",
     filename: "jobr.js",
-    path: path.resolve(__dirname, "dist")
+    path: path.resolve(__dirname, "dist"),
+    globalObject: "this"
   },
   mode: "production"
 };
