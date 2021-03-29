@@ -1,7 +1,7 @@
 {
   "name": "jobr",
   "description": "jobr is a simple, lightweight library that makes easy to create and manage recurrent jobs. Works in browser and node environment.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "./dist/jobr.js",
   "types": "./dist/jobr.d.ts",
   "files": [
