@@ -1,6 +1,16 @@
 # Jobr
 
+[![License][license-image]][license-url]
+[![npm version][npm-image]][npm-url]
+[![npm](https://img.shields.io/npm/dw/jobr.svg)](https://www.npmjs.com/package/jobr)
+
+
 Jobr is a simple, lightweight library that makes easy to create and manage recurrent jobs. Works in browser and node environment.
+
+[npm-url]: https://www.npmjs.com/package/jobr
+[npm-image]: https://img.shields.io/npm/v/jobr.svg
+[license-url]: https://opensource.org/licenses/MIT
+[license-image]: https://img.shields.io/npm/l/jobr.svg
 
 ## Table of Contents
 
